@@ -1,0 +1,3 @@
+cout in the line 667: (cout << i << " " << (QQ[2]+QQ[3])/Qtot << endl;)
+a sample from output can be seen in the file called output. 
+for the last i, number of entries are counted (by eye); more or less 100. 
